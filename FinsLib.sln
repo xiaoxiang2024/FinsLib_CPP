@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinsLib", "FinsLib\FinsLib.vcxproj", "{085926EA-6838-4FBA-827F-95EEC1E63D22}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinsLibConsole", "FinsLibConsole\FinsLibConsole.vcxproj", "{1400B78D-0AFA-4E98-8F26-833FBE8DC8C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085926EA-6838-4FBA-827F-95EEC1E63D22}.Debug|Win32.ActiveCfg = Debug|Win32
+		{085926EA-6838-4FBA-827F-95EEC1E63D22}.Debug|Win32.Build.0 = Debug|Win32
+		{085926EA-6838-4FBA-827F-95EEC1E63D22}.Release|Win32.ActiveCfg = Release|Win32
+		{085926EA-6838-4FBA-827F-95EEC1E63D22}.Release|Win32.Build.0 = Release|Win32
+		{1400B78D-0AFA-4E98-8F26-833FBE8DC8C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1400B78D-0AFA-4E98-8F26-833FBE8DC8C3}.Debug|Win32.Build.0 = Debug|Win32
+		{1400B78D-0AFA-4E98-8F26-833FBE8DC8C3}.Release|Win32.ActiveCfg = Release|Win32
+		{1400B78D-0AFA-4E98-8F26-833FBE8DC8C3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
